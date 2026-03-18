@@ -11,6 +11,7 @@ Objectives:
 
 
 Architecture:
+
 Network Segmentation
 - VLAN separation for:
 
