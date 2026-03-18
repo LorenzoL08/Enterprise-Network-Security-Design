@@ -14,13 +14,13 @@ Architecture:
 Network Segmentation
 - VLAN separation for:
 
--- Accounting
+  - Accounting
 
--- Sales
+  - Sales
 
--- Servers
+  - Servers
 
-- Layer 3 switch used for inter-VLAN routing
+  - Layer 3 switch used for inter-VLAN routing
 
 DMZ Implementation
 
@@ -28,9 +28,9 @@ DMZ Implementation
 
 - Dual-firewall architecture:
 
--- External firewall (Internet → DMZ)
+  - External firewall (Internet → DMZ)
 
--- Internal firewall (DMZ → Internal)
+  - Internal firewall (DMZ → Internal)
 
 Security Controls
 
@@ -40,6 +40,6 @@ Security Controls
 
 - Host-based firewalls:
 
--- Windows Defender
+  - Windows Defender
 
--- Firewalld (Linux)
+  - Firewalld (Linux)
