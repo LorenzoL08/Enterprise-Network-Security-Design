@@ -21,7 +21,7 @@ Network Segmentation
 
   - Servers
 
-  - Layer 3 switch used for inter-VLAN routing
+- Layer 3 switch used for inter-VLAN routing
 
 DMZ Implementation
 
